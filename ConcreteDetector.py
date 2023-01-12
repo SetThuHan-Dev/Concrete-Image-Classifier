@@ -33,7 +33,7 @@ if uploaded_file is not None:
         for i in x:
             j = np.argmax(i)
             if(j==0):
-                st.success("**Uncracked Concrete 🧱 **")
+                st.success("Uncracked Concrete 🧱 ")
                 
             else:
                 st.error("Cracked Concrete! 🚧 ")
