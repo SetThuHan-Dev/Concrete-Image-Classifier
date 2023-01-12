@@ -4,7 +4,7 @@ This web app is hosted by streamlit cloud.
 ### https://setthuhan-dev-crackedconcretedetector-w-concretedetector-anqzb6.streamlit.app/
 > Upload your concrete image: format JPG: max size: 100 KB.
 
-> classifier_vgg16_model is fitted with sample images by 98% accuracy in my local machine using TF and used to predict detection
+> classifier_vgg16_model is fitted with sample images by 98% accuracy on my local machine using TF and used to predict detection
 
 ## Test Sample
 > Uncracked
